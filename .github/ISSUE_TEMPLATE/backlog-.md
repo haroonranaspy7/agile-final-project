@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**As a** Admin 
- **I need** to deploy my service to cloud   
- **So that** I can access from anywhere
+**As a** 
+ **I need** 
+ **So that** 
    
  ### Details and Assumptions
- * I have deployed the service on Azure public cloud 
+* 
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given deployed the service on cloud
- When anyone will open the link with internet access
- Then service will be opened
+ Given 
+ When 
+ Then 
  ```
